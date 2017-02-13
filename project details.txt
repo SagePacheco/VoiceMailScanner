@@ -1,0 +1,25 @@
+Charleston ENT:
+
+Create program that reads an office 365 mail box...
+and imports a voicemail file to a shared drive that the server has access to.
+
+Test Mail Details:
+user: 'spacheco@charlestonent.com',
+password: 'Welcome1',
+host: 'outlook.office365.com',
+port: 993
+
+Possible File Name:
+
+yyyymmdd_hhmm_subject.msg
+
+Logged work hours:
+
+8/25/16: 6 hours
+8/26/16: 6 hours
+8/29/16: 6 hours
+
+Server Requirements:
+.NET Framework 3.5
+Change the system account that the service logs in with.
+Ensure that user permissions allow for sounds bytes to be pulled.

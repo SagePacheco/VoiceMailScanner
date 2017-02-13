@@ -1,0 +1,37 @@
+2016-08-29 15:35:04 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\Users\sapacheco\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js" -f "C:\Users\sapacheco\Dropbox\Apps\Active Development\attachment-scanner\mail.js" -l "VoiceMail Scanner" -g 0.25 -w 1 -r 3 -a n
+2016-08-29 15:35:04 - Started 11212
+2016-08-29 15:45:15 - Stopping voicemailscanner.exe
+2016-08-29 15:45:15 - ProcessKill 11212
+2016-08-29 15:45:15 - Finished voicemailscanner.exe
+2016-08-29 15:48:50 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\Users\sapacheco\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js" -f "C:\Users\sapacheco\Dropbox\Apps\Active Development\attachment-scanner\mail.js" -l "VoiceMail Scanner" -g 0.25 -w 1 -r 3 -a n
+2016-08-29 15:48:50 - Started 11696
+2016-08-29 16:07:27 - Stopping voicemailscanner.exe
+2016-08-29 16:07:27 - ProcessKill 11696
+2016-08-29 16:07:27 - Finished voicemailscanner.exe
+2016-08-29 16:07:29 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\Users\sapacheco\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js" -f "C:\Users\sapacheco\Dropbox\Apps\Active Development\attachment-scanner\mail.js" -l "VoiceMail Scanner" -g 0.25 -w 1 -r 3 -a n
+2016-08-29 16:07:29 - Started 11068
+2016-08-29 16:44:14 - Stopping voicemailscanner.exe
+2016-08-29 16:44:14 - ProcessKill 11068
+2016-08-29 16:44:14 - Finished voicemailscanner.exe
+2016-08-29 16:45:26 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\Users\sapacheco\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js" -f "C:\Users\sapacheco\Dropbox\Apps\Active Development\attachment-scanner\mail.js" -l "VoiceMail Scanner" -g 0.25 -w 1 -r 3 -a n
+2016-08-29 16:45:26 - Started 26492
+2016-08-29 16:50:19 - Stopping voicemailscanner.exe
+2016-08-29 16:50:19 - ProcessKill 26492
+2016-08-29 16:50:19 - Finished voicemailscanner.exe
+2016-08-29 16:50:20 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\Users\sapacheco\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js" -f "C:\Users\sapacheco\Dropbox\Apps\Active Development\attachment-scanner\mail.js" -l "VoiceMail Scanner" -g 0.25 -w 1 -r 3 -a n
+2016-08-29 16:50:20 - Started 25272
+2016-08-29 17:23:53 - Stopping voicemailscanner.exe
+2016-08-29 17:23:53 - ProcessKill 25272
+2016-08-29 17:23:53 - Finished voicemailscanner.exe
+2016-09-04 02:01:06 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\Users\sapacheco\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js" -f "C:\Users\sapacheco\Dropbox\Apps\Active Development\attachment-scanner\mail.js" -l "VoiceMail Scanner" -g 0.25 -w 1 -r 3 -a n
+2016-09-04 02:01:06 - Started 3124
+2016-09-08 15:50:24 - Stopping voicemailscanner.exe
+2016-09-08 15:50:24 - ProcessKill 3124
+2016-09-08 15:50:24 - Finished voicemailscanner.exe
+2016-09-08 15:51:24 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\Users\sapacheco\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js" -f "C:\Users\sapacheco\Dropbox\Apps\Active Development\attachment-scanner\mail.js" -l "VoiceMail Scanner" -g 0.25 -w 1 -r 3 -a n
+2016-09-08 15:51:24 - Started 3900
+2016-09-11 02:00:08 - Stopping voicemailscanner.exe
+2016-09-11 02:00:08 - ProcessKill 3900
+2016-09-11 02:00:08 - Finished voicemailscanner.exe
+2016-09-11 02:00:47 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\Users\sapacheco\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js" -f "C:\Users\sapacheco\Dropbox\Apps\Active Development\attachment-scanner\mail.js" -l "VoiceMail Scanner" -g 0.25 -w 1 -r 3 -a n
+2016-09-11 02:00:47 - Started 4080

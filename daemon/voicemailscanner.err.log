@@ -1,0 +1,69 @@
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: ENOENT: no such file or directory, open 'C:\Windows\system32\sound\Mon_29_Aug_2016_19_14_23.mp3'
+    at Error (native)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EPERM: operation not permitted, open '\\ppcsrvwds\WDS Operations Storage\Fri_26_Aug_2016_19_10_30.wav'
+    at Error (native)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EPERM: operation not permitted, open '\\ppcsrvwds\WDS Operations Storage\Thu_25_Aug_2016_19_29_42.wav'
+    at Error (native)
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EPERM: operation not permitted, open '\\ppcsrvwds\WDS Operations Storage\Thu_25_Aug_2016_19_29_42.wav'
+    at Error (native)
+C:\Users\sapacheco\Dropbox\Apps\Active Development\attachment-scanner\accounts.js:24
+    connection.destination = item.destination;
+              ^
+
+SyntaxError: Unexpected token .
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:373:25)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Module.require (module.js:353:17)
+    at require (internal/module.js:12:17)
+    at Object.<anonymous> (C:\Users\sapacheco\Dropbox\Apps\Active Development\attachment-scanner\mail.js:5:16)
+    at Module._compile (module.js:409:26)
+    at Object.Module._extensions..js (module.js:416:10)
+C:\Users\sapacheco\Dropbox\Apps\Active Development\attachment-scanner\accounts.js:24
+    connection.destination = item.destination;
+              ^
+
+SyntaxError: Unexpected token .
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:373:25)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Module.require (module.js:353:17)
+    at require (internal/module.js:12:17)
+    at Object.<anonymous> (C:\Users\sapacheco\Dropbox\Apps\Active Development\attachment-scanner\mail.js:5:16)
+    at Module._compile (module.js:409:26)
+    at Object.Module._extensions..js (module.js:416:10)
+C:\Users\sapacheco\Dropbox\Apps\Active Development\attachment-scanner\accounts.js:24
+    connection.destination = item.destination;
+              ^
+
+SyntaxError: Unexpected token .
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:373:25)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Module.require (module.js:353:17)
+    at require (internal/module.js:12:17)
+    at Object.<anonymous> (C:\Users\sapacheco\Dropbox\Apps\Active Development\attachment-scanner\mail.js:5:16)
+    at Module._compile (module.js:409:26)
+    at Object.Module._extensions..js (module.js:416:10)
